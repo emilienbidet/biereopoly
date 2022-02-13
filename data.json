@@ -1,0 +1,83 @@
+{
+    "name": "Bière'opoly",
+    "description": "Des pintes de rire",
+    "rules": "Chaque joueur choisit une capsule et lance le dé à tour de rôle. Le plus sage commence. Le but est de réussir tous les challenges. Tant que vous n'arrivez pas sur la case fin en faisant le chiffre exact, vous restez sur votre case et vous la rejouez. Le jeu s'arrête quand il ne reste plus qu'un joueur. Ce looser devra alors boire le verre placé dans l'uni-verre. Un verre au départ vide, rempli tout long du jeu avec un peu de boisson de chaque joueur. Santé !",
+    "tiles": [
+        {
+            "title": "Le meilleur chopin",
+            "description": "En bon pote, distribue une gorgée à la personne qui le mérite."
+        },
+        {
+            "title": "Bière, pinte, bibine, pression",
+            "description": "Choisis un mot dont tout le monde doit trouver un synonyme à tour de rôle. Celui qui bégale doit se désaltérer."
+        },
+        {
+            "title": "Uni-verre !",
+            "description": "Contribue à la communauté. Mets un peu de ta boisson dans le verre."
+        },
+        {
+            "title": "La pression monte !",
+            "description": "Tu inventes une règle. Celui qui ne la respecte pas boit."
+        },
+        {
+            "title": "Je te tiens, tu me tiens, par la barbibine",
+            "description": "Le premier qui rira aura une gorgée."
+        },
+        {
+            "title": "Houblon tout !",
+            "description": "Reviens en arrière de 3 cases, joue celle-ci puis bois une gorgée."
+        },
+        {
+            "title": "Tchiiiiiiiiiiin !",
+            "description": "A partir de maintenant, trinquez à chaque fois que vous lancez les dés. Celui qui oublie boit."
+        },
+        {
+            "title": "Plus de bière, moins de bière",
+            "description": "C'est presque vide ça ?! Bois une gorgée."
+        },
+        {
+            "title": "Feet in the air !",
+            "description": "Le dernier avec les pieds en l'air boit. Pas de place pour les mous."
+        },
+        {
+            "title": "Tout le monde se vouvoie",
+            "description": "Celui qui ne respecte pas la règle boit."
+        },
+        {
+            "title": "Sans amertume !",
+            "description": "Cul sec pour tout le plateau. C'est cadeau !"
+        },
+        {
+            "title": "Bouge ton bulle",
+            "description": "Blind test pour toi, si t'es inculte tu bois."
+        },
+        {
+            "title": "A la cool !",
+            "description": "Bois dans ton verre sans les mains."
+        },
+        {
+            "title": "Je n'ai jamais !",
+            "description": "Celui qui a déjà boit."
+        },
+        {
+            "title": "A flots !",
+            "description": "1,2,3 gorgées pour toi. C'est cadeau !"
+        },
+        {
+            "title": "Sans te mousser !",
+            "description": "Désigne quelqu'un qui distribue un cul sec."
+        },
+        {
+            "title": "Malt la !",
+            "description": "Personne ne bouge. Le premier qui cligne des yeux boit."
+        },
+        {
+            "title": "Houblon tout !",
+            "description": "Retourne en arrière de 3 cases, joue celle-ci puis bois une gorgée."
+        },
+        {
+            "title": "Uni-verre !",
+            "description": "Contribue à la communauté. Mets un peu de ta boisson dans le verre."
+        }
+    ]
+}
